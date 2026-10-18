@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0b0a09"/>
+  <!-- olho espiando por entre as lâminas de uma persiana -->
+  <path d="M6 32c7-11 16-16 26-16s19 5 26 16c-7 11-16 16-26 16S13 43 6 32z" fill="#ebe4d6"/>
+  <circle cx="32" cy="32" r="9" fill="#0b0a09"/>
+  <circle cx="32" cy="32" r="3.5" fill="#c4161c"/>
+  <g fill="#0b0a09">
+    <rect y="14" width="64" height="6"/>
+    <rect y="25" width="64" height="4"/>
+    <rect y="36" width="64" height="4"/>
+    <rect y="45" width="64" height="6"/>
+  </g>
+</svg>
